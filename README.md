@@ -9,3 +9,7 @@ This file shows the visual code。
 
 # sevenVol.csv
 This data is the input of ShapleyValue.ipynb.
+
+# Acknowledgements
+If it helps you, please quote our paper: doi.
+In addition, if any other questions, welcome to contact me by the email: wengfutian@gmail.com.
