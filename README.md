@@ -1,8 +1,5 @@
 # XAI
-Core code of paper 《Analysis of financial pressure impacts on the health care industry with an explainable machine learning method: China verus the USA》
-
-# ShapleyValue.ipynb
-In this document, the calculation process of Shapley value of the impact of financial pressure on the medical industry is shown. The financial pressure of the system and that of the United States can be modified on this code, just by modifying the input and output data sets.
+Dataset of paper 《Analysis of financial pressure impacts on the health care industry with an explainable machine learning method: China verus the USA》
 
 # visualization.R
 This file shows the visual code。
@@ -11,5 +8,6 @@ This file shows the visual code。
 This data is the input of ShapleyValue.ipynb.
 
 # Acknowledgements
-If it helps you, please quote our paper: doi.
-In addition, if any other questions, welcome to contact me by the email: wengfutian@gmail.com.
+About the implementation code, please email me, remark your school and name, thank you.
+If it helps you, please quote our paper: doi. https://doi.org/10.1016/j.eswa.2022.118482.
+In addition, if any other questions, welcome to contact me by the email: xmftweng@163.com.
